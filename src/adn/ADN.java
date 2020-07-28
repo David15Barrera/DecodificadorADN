@@ -18,11 +18,11 @@ public class ADN {
      */
     public static void main(String[] args) {
      //Para mostrar la interfaz
-         INterfazADN entrada = new INterfazADN();
-         entrada.show();  
+     /*     INterfazADN entrada = new INterfazADN();
+         entrada.show();*/  
        //Para mostrar la logica del programa mediante consola    
-       /*  Decodificar lc = new Decodificar();
-        lc.cadenas();*/
+        Decodificar lc = new Decodificar();
+        lc.cadenas();
     }
     
 }

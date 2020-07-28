@@ -27,7 +27,7 @@ public class Decodificar {
     los metodos que descompondran la cadena y guardar asi como un arreglo de letras*/
     public void cadenas() {
         System.out.println("Secuencias de ADN de formas de vida diferentes "+
-                " "+"Ingrese la primera secuencia de ADN:");
+                "\n"+"Ingrese la primera secuencia de ADN:");
         cadena1 = sc.nextLine();
         System.out.println("Ingrese la segunda secuencia de ADN:");
         cadena2 = sc.nextLine();
